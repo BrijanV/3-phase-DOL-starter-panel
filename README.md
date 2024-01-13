@@ -6,7 +6,7 @@
 
 ### Images
 
-<div style="width:60%; margin: auto;">
+<div style="width:60%%; margin: auto;">
 
 ![Image 1](./img/IMG20230204163917.jpg)
 ![Image 2](./img/IMG_20230305_111704.jpg)
